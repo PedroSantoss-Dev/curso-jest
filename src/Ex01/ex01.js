@@ -21,6 +21,4 @@ const Media =  (p,m,c,e) => {
  }
 }
 
-console.log(Media())
-
 module.exports =Media;
