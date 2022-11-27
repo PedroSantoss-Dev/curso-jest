@@ -1,0 +1,22 @@
+{
+  "name": "curso-jest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PedroSantoss-Dev/curso-jest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PedroSantoss-Dev/curso-jest/issues"
+  },
+  "homepage": "https://github.com/PedroSantoss-Dev/curso-jest#readme",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}
